@@ -23,7 +23,7 @@ Languages and Tools:
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40" style="margin-right: 10px;"/>
 </a>
 <a href="https://nestjs.com/">
     <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40" style="margin-right: 10px;"/>
