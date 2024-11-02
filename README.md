@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">A passionate developer from Morocco, alumni of 1337 school currently working at Finamaze</h3>
+<h3 align="center">A passionate developer from Morocco, alumni of 1337 school</h3>
 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -17,7 +17,7 @@ Languages and Tools:
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
-# 🔭 I'm currently working at Finamaze:
+<h3 align="center">🔭 I'm currently working at Finamaze:</h3>
 - Building and maintaining financial technology solutions
 - Working with modern web technologies
 - Collaborating in an agile environment
