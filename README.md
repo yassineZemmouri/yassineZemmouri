@@ -18,7 +18,7 @@ Languages and Tools:
 </p>
 
 🔭 I'm currently working at Finamaze
-  > Building and maintaining financial technology solutions
+..* > Building and maintaining financial technology solutions
   > Working with modern web technologies
   > Collaborating in an agile environment
 👨‍💻 All of my school projects are available at [https://github.com/yzemmouri?tab=repositories]
