@@ -17,9 +17,12 @@ Languages and Tools:
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
-🔭 I'm currently working at Finamaze
-..* > Building and maintaining financial technology solutions
-  > Working with modern web technologies
-  > Collaborating in an agile environment
-👨‍💻 All of my school projects are available at [https://github.com/yzemmouri?tab=repositories]
-📫 How to reach me: [umpyassinez@gmail.com]
+# 🔭 I'm currently working at Finamaze:
+- Building and maintaining financial technology solutions
+- Working with modern web technologies
+- Collaborating in an agile environment
+- ...
+
+👨‍💻 All of my school projects are available at [https://github.com/yzemmouri?tab=repositories](https://github.com/yzemmouri?tab=repositories)
+
+📫 How to reach me: [umpyassinez@gmail.com](mailto:umpyassinez@gmail.com)
