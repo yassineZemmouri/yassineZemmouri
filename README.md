@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">A passionate developer from Morocco, alumni of 1337 school</h3>
+<h3 align="center">A passionate developer, alumni of 1337 school</h3>
 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
