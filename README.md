@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h2 align="center">Learn. Build. Deploy.</h2>
 Languages and Tools:
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
